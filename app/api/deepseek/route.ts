@@ -45,7 +45,7 @@ export async function POST(req: Request) {
         body: JSON.stringify({
           model: "deepseek-chat",
           messages,
-          temperature: 0, // Have Jake try editing this as well for fun.
+          temperature: 2, // Have Jake try editing this as well for fun.
           top_p: 1,
           max_tokens: 800,
         }),
