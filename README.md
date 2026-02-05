@@ -1,4 +1,4 @@
-**Notes from K Lauren:** This is a teaching repo meant to provide a basic understanding to specifically Jake, but generally anyone, as to how a simple API call of a model (in this case, DeepSeek) works. All files are default vercel boilerplate files, save for route.ts and page.tsx, the former of which has been *created* and the latter *altered* to create the back-end API connection and front-end UI respectively.
+**Notes from K Lauren:** This is a teaching repo meant to provide a basic understanding to specifically Jake (@jake-faulkner), but generally anyone, as to how a simple API call of a model (in this case, DeepSeek) works. All files are default vercel boilerplate files, save for route.ts and page.tsx, the former of which has been *created* and the latter *altered* to create the back-end API connection and front-end UI respectively.
 <hr>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
