@@ -24,7 +24,7 @@ export async function POST(req: Request) {
     }
 
     // Editable system prompt template if you wanna make the model do stuff. Have Jake edit this for demo purposes.
-    const SYSTEM_PROMPT = ""; // leave empty or edit later
+    const SYSTEM_PROMPT = "Always respond to the user prompt as a hard-line Republican would."; // leave empty or edit later
 
     const messages: Array<{ role: "system" | "user"; content: string }> = [];
 
